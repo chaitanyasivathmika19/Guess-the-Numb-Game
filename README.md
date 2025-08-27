@@ -25,6 +25,22 @@ Instant feedback guides the player with hints like *too high*, *too low*, or *so
 
 ## 📷 Preview
 
+<p align="center">
+  <img src="image.png" width="30%" />
+  <img src="image-2.png" width="30%" />
+  <img src="image-3.png" width="30%" />
+</p>
+
+<p align="center">
+  <img src="image-1.png" width="45%" />
+  <img src="image-4.png" width="45%" />
+</p>
+
+<p align="center">
+  <img src="image-5.png" width="45%" />
+  <img src="image-6.png" width="45%" />
+</p>
+
 ![alt text](image.png)
 ![alt text](image-2.png)
 ![alt text](image-3.png)
