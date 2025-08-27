@@ -24,8 +24,15 @@ Instant feedback guides the player with hints like *too high*, *too low*, or *so
 ---
 
 ## 📷 Preview
-(Add a screenshot or GIF of your game here once available)
 
+![alt text](image.png)
+![alt text](image-2.png)
+![alt text](image-3.png)
+
+![alt text](image-1.png)
+![alt text](image-4.png)
+![alt text](image-5.png)
+![alt text](image-6.png)
 ---
 
 ## ▶️ How to Play
