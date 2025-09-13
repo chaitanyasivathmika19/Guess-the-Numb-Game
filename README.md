@@ -2,10 +2,13 @@
 
 A fun and interactive number guessing game built with **HTML, CSS, and JavaScript**.  
 The player has **10 attempts** to guess a secret number between **1–100**.  
-Instant feedback guides the player with hints like *too high*, *too low*, or *so close!*.  
+Instant feedback guides the player with hints like *too high*, *too low*, or *so close!*. 
 
-##🚀 Live Demo
-▶️ Play the game here: [Guess the Numb Game-Live](https://chaitanyasivathmika19.github.io/Guess-the-Numb-Game/)
+---
+## 🚀 Live Demo
+
+▶️  Play the game here:  [Guess the Numb Game-Live](https://chaitanyasivathmika19.github.io/Guess-the-Numb-Game/)
+ 
 
 ---
 
